@@ -1,4 +1,4 @@
-import fastify from '../index';
+import fastify from '../index.mjs';
 
 describe('fastify', () => {
   it('should returns correct string', async () => {
